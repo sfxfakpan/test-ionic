@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
     "@angular/router": "^16.0.0",
+    "@capacitor/android": "^5.2.1",
     "@capacitor/app": "5.0.6",
     "@capacitor/core": "5.2.1",
     "@capacitor/haptics": "5.0.6",
@@ -29,6 +30,8 @@
     "@ionic/angular": "^7.0.0",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
+    "sfx-deviceid-android": "1.0.2",
+    "sfx-document-processor": "1.0.4",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
   },
